@@ -2,7 +2,7 @@
 int main()
 {
 	int min,hr,m;
-	printf("\n Enter minute:");
+	printf("\n");
 	scanf("%d",&min);
 	hr=min/60;
 	min=min%60;
