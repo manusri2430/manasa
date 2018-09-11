@@ -1,7 +1,7 @@
-n=int(raw_input())
+a=int(raw_input())
 """count=0
-while(n>0):
-    n=n//10
+while(a>0):
+    a=a//10
     count=count+1
 print count"""
-print len(str(abs(n)))
+print len(str(abs(a)))
