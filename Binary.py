@@ -5,6 +5,6 @@ else:
     print "No"
     """
 if not(n.translate(None,'01')):
-    print "Yes"
+    print "yes"
 else:
-    print "No"
+    print "no"
