@@ -1,10 +1,11 @@
-n=int(raw_input())
-m=n+1
-i=1
-while m!=0:
-    k=2**i
-    if m==k:
-        print m
+c=int(raw_input())
+d=c+1
+p=1
+while d!=0:
+    e=2**p
+    if d==e:
+        print d
         break
-    i=i+1
-    m=m+1
+    p=p+1
+    d=d+1
+
