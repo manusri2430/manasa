@@ -1,7 +1,7 @@
-n=int(raw_input())
-a=[]
-while(n>0):
-    dig=n%10
-    a.append(dig)
-    n=n//10
-print sum(a)
+h=int(raw_input())
+b=[]
+while(h>0):
+    dig=h%10
+    b.append(dig)
+    h=h//10
+print sum(b)
