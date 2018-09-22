@@ -1,2 +1,2 @@
-list=[int(x) for x in raw_input().split()]
-print min(list)
+list1=[int(y) for y in raw_input().split()]
+print min(list1)
