@@ -1,1 +1,1 @@
-print(chr(int(raw_input()) + 64))
+print(char(int(raw_input()) + 64))
