@@ -1,4 +1,4 @@
-ef isIsogram(s):
+def isIsogram(s):
 	charMap = {}
 	for c in s:
 		if c in charMap:
