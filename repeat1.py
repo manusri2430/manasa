@@ -4,7 +4,7 @@ def most_frequent_char(str):
 
             max_repeat_count = 0
 
-            for letter in strg:
+            for letter in string:
 
                     if letter not in dict1:
 
