@@ -1,2 +1,2 @@
-sentence =str(raw_input(""))
-print sentence.replace(" ", "")
+sent =str(raw_input(""))
+print sent.replace(" ", "")
