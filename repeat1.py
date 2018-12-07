@@ -24,7 +24,7 @@ def most_frequent_char(str):
 
 if __name__ == '__main__':
 
-        strg =raw_input("")
+        string =raw_input("")
 
-        print ""+ most_frequent_char(strg)
+        print ""+ most_frequent_char(string)
 
