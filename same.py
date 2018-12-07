@@ -1,11 +1,11 @@
 L,R=map(int,raw_input().split())
 if(L>R):
-    min1=L
+    min2=L
 else:
-    min1=R
+    min2=R
 while(1):
-    if(min1%L==0 and min1%R==0):
-        print(min1)
+    if(min2%L==0 and min2%R==0):
+        print(min2)
         break
-    min1=min1+1
+    min2=min2+1
 
