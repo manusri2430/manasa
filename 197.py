@@ -1,0 +1,5 @@
+a = int(input())
+h = list(map(int,raw_input().split()))
+m1 = max(h)
+m2 = min(h)
+print(m1-m2)
