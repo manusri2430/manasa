@@ -1,2 +1,2 @@
-c,d=map(int,raw_input().split())
-print(c**d)
+g,h=map(int,raw_input().split())
+print(g**h)
